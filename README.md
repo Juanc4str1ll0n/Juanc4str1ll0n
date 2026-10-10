@@ -6,11 +6,10 @@
 
 Systems and Computing Engineering student at Universidad de Cundinamarca. Software developer with a strategic approach to problem-solving. I combine analytical thinking, honed through chess, with technical skills applied and tested in competitive programming environments.
 
-**Featured Projects:**
+<!-- **Featured Projects:**
 * **Tasky:** Desktop application designed for efficient note management and organization.
 * **Stock-Flow:** Web-based system focused on robust inventory administration and control.
-
----
+-->
 
 ## Tech Stack
 
