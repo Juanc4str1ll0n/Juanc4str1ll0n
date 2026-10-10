@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 Mis Estadísticas y Lenguajes Más Usados
+Statistics and Stuff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanc4str1ll0n&layout=compact&theme=dracula)](https://github.com/Juanc4str1ll0n)
