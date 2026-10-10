@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📊 Mis Estadísticas y Lenguajes Más Usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula)](https://github.com/Juanc4str1ll0n)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanc4str1ll0n &layout=compact&theme=dracula)](https://github.com/Juanc4str1ll0n)
